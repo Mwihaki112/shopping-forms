@@ -1,0 +1,20 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  max-width: 300px;
+  margin: 20px auto;
+  gap: 8px;
+}
+
+.form input, .form select, .form button {
+  padding: 8px;
+  border-radius: 8px;
+  border: 1px solid #7baf9e;
+}
+
+.form button {
+  background-color: #7baf9e;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+}

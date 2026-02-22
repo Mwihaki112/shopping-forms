@@ -1,0 +1,16 @@
+.card {
+  border: 2px solid #7baf9e;
+  padding: 16px;
+  border-radius: 12px;
+  text-align: center;
+  width: 180px;
+  margin: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  font-family: 'Comic Sans MS', cursive, sans-serif;
+}
+
+.card img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
